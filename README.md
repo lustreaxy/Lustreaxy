@@ -5,4 +5,4 @@
 
 # I started learning Lua in 2020
 
-# My discord : sadownik
+# My discord : reallustreaxy
